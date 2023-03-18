@@ -4,7 +4,7 @@ app.use(express.json())
 
 
 app.get("/home",(req,res)=>{
-    res.send("welcome to the the server1")
+    res.send("welcome to the the server2")
 })
 
 
